@@ -13,6 +13,6 @@ else{
 }
 int main()
 {
-    cout << fatorial(6);
+    cout << fatorial(8);
     return 0;
 }
